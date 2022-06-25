@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Home
-nav_order: 1
+title: Projectile Motion
+nav_order: 2
 description: "Tutorials of PolyU Online Platform"
-permalink: /
 ---
 
-# PolyU Online Platform Tutorials
+# Projectile Motion
 
 
 
