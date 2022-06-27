@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Projectile Motion
-nav_order: 3
+title: Underactuated Cart-Pole 
+nav_order: 5
 description: "Tutorials of PolyU Online Platform"
 ---
 
-# Projectile Motion
+# Underactuated Cart-Pole 
 
 
 

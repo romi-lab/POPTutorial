@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Projectile Motion
-nav_order: 3
+title: Spring-Mass-Damper System
+nav_order: 4
 description: "Tutorials of PolyU Online Platform"
 ---
 
-# Projectile Motion
+# Spring-Mass-Damper System
 
 
 
