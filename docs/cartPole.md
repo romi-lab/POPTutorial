@@ -6,6 +6,6 @@ description: "Tutorials of PolyU Online Platform"
 ---
 
 # Underactuated Cart-Pole 
-
-
+<br>
+**NOTE**:
 
