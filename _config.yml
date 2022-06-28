@@ -16,7 +16,7 @@
 title: POP Tutorials
 description: 
 baseurl: /POPTutorial # the subpath of your site, e.g. /blog
-url: "https://jinlibot7.github.io/POPTutorial/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jinlibot7.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
