@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: POP Tutorials
 description: 
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: /POPTutorial # the subpath of your site, e.g. /blog
 url: "https://jinlibot7.github.io/POPTutorial/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
