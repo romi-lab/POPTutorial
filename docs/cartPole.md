@@ -21,7 +21,7 @@ The model is considered to represent an unstable system because an external cont
 
 
 
-## Euqations of motion
+## Equations of motion
 <br>
 
 We denote the horizontal displacement of the cart by $$x$$, and the counter-clockwise rotation angle of the pole by $$\theta$$. The state of the system is denoted by a vector $$\mathbf{x} = \left[\begin{array}{c} x & \dot{x} & \theta & \dot{\theta} \end{array}\right]^T$$ and the input to the system is the horizontal force $$F$$ applied to the cart, which is denoted by $$u = F$$  to follow the convention. If the task is to stabilize the system at the unstable fixed point, the reference vector is in the form of $$\mathbf{r} = \left[\begin{array}{c} x_r & 0 & 0 & 0 \end{array}\right]^T$$ where $$x_r$$ can be an arbitray. To keep it simple, we assign $$x_r = 0$$.
@@ -67,7 +67,7 @@ $$\left[\begin{array}{c}
 
 \end{array}\right]$$
 
-Rewrite the above equation in the state-space equation form $$\mathbf{x} = \mathbf{A}\mathbf{\dot{x}}+ \mathbf{B}\mathbf{u}$$, where 
+Rewrite the above equation in the state-space equation form $$\dot{\mathbf{x}} = \mathbf{A}\mathbf{x}+ \mathbf{B}\mathbf{u}$$, where 
 
 $$
 \mathbf{A} = \left[\begin{array}{c}
