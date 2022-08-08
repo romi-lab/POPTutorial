@@ -20,7 +20,7 @@ In the **Control Panel**, the user can adjust several simulation parameteres:
 3. Height
 4. Gravity
 
-![](./assets/images/ProjectileMotion/pmControls.png)
+![](../assets/images/ProjectileMotion/pmControls.png)
 
 ## References
 
