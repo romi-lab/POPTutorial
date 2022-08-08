@@ -25,6 +25,7 @@ In the **Control Panel**, the user can adjust several simulation parameters:
 The **Viewport** consists of a surface, launching source and a wall that serves as a space boundary for projectiles. After setting up the control inputs, click a **"shoot"** button to start the action. The coloured lines trace the projectile motion showing its complete trajectory, which can be locally saved through the **"savePath"** option. The **Control Panel** also provides details about the flying projectile. You can follow a real-time change of the ball's positional coordinates, the time and distance from the source when it first hits the surface, as well as the total elapsed time. If multiple projectiles have been launched, the drawn trajectory and flying data refer to the last.
 
 ![](../assets/images/ProjectileMotion/pmShot1.jpg)
+![](../assets/images/ProjectileMotion/pmShot2.jpg)
  
 
 ## References
